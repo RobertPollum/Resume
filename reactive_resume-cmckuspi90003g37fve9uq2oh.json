@@ -27,9 +27,9 @@
       "name": "Summary",
       "columns": 1,
       "separateLinks": true,
-      "visible": true,
+      "visible": false,
       "id": "summary",
-      "content": "<p>Experienced Software Engineer with a history of working in the automotive industry.. Looking for the next challenge/opportunity to lead/mentor, collaborate, communicate, code, build and design. </p>"
+      "content": "<p>Experienced Software Engineer with a history of working in the automotive industry. Looking for the next challenge/opportunity to lead/mentor, collaborate, communicate, code, build and design. </p>"
     },
     "awards": {
       "name": "Awards",
@@ -111,7 +111,7 @@
           "position": "Senior Software Developer",
           "location": "Warren, MI",
           "date": "July 2024 - June 2025",
-          "summary": "<ul><li><p>Contribute to code base by fixing numerous bugs and catching several bugs before they went to production, completing 4-5 features to deliver to business and developing User Stories before and during Sprint Planning.</p></li><li><p>Developed script for resetting local environment that reduced time by minimally 10x along with Insomnia repo for testing APIs.</p></li><li><p>Building out application in React, Next, Quarkus, PostgreSQL, Kubernetes, Docker, Swagger, C4, Insomnia, bash and git.</p></li></ul>",
+          "summary": "<ul><li><p>Contributed to code base by fixing numerous bugs and catching several bugs before they went to production, completing 4-5 features to deliver to business and developed User Stories before and during Sprint Planning.</p></li><li><p>Developed script for resetting local environment that reduced time by minimally 10x and an Insomnia repo for testing APIs.</p></li><li><p>Built out application in React, Next, Quarkus, PostgreSQL, Kubernetes, Docker, Swagger, C4, Insomnia, bash and git.</p></li></ul>",
           "url": {
             "label": "",
             "href": ""
@@ -124,7 +124,7 @@
           "position": "Software Development Team Lead",
           "location": "Warren, Michigan, United States",
           "date": "Aug 2021 - June 2024",
-          "summary": "<ul><li><p>Migrated a monolithic application from Oracle Weblogic to Apache Tomcat to save GM money on existing Oracle contracts.</p></li><li><p>Documenting and establishing process in Java Docs, Swagger, C4 and OneNote while mentoring a team of 5-7 developers</p></li><li><p>Designing and Building greenfield applications using React, Next, Spring Boot, Quarkus, PostgreSQL, Pivotal Cloud Foundry, Kubernetes, Docker, git and Python.</p></li></ul>",
+          "summary": "<ul><li><p>Migrated a monolithic application from Oracle Weblogic to Apache Tomcat to save GM money on existing Oracle contracts.</p></li><li><p>Documented and established process in Java Docs, Swagger, C4 and OneNote while mentoring a team of 5-7 developers</p></li><li><p>Designed and Built greenfield applications using React, Next, Spring Boot, Quarkus, PostgreSQL, Pivotal Cloud Foundry, Kubernetes, Docker, git and Python.</p></li></ul>",
           "url": {
             "label": "",
             "href": ""
@@ -137,7 +137,7 @@
           "position": "Full Stack Software Developer",
           "location": "Warren, Michigan",
           "date": "Feb 2015 - Aug 2021",
-          "summary": "<ul><li><p>Build/design greenfield emission reporting application using ExtJs, Microsoft SQL Server and Sprint Boot supporting Opel/Vauxhall divisions</p></li><li><p>Migrate database platforms from Oracle to PostgreSQL to saving GM money on contracts.</p></li><li><p>Support, upgrade, modify legacy applications with new business features using Apache Struts, Spring Framework, Angular, Vue, vanilla JavaScript, SVN and Git to support future vehicle architecture and marketing objectives.</p></li><li><p>Lead SCRUM meetings and developed stories for agile based team translating requirements to User Stories.</p></li><li><p>Mentored 3 newer developers to bring them up to speed on process, code base and general approach questions.</p></li></ul>",
+          "summary": "<ul><li><p>Built/designed greenfield emission reporting application using ExtJs, Microsoft SQL Server and Sprint Boot to support Opel/Vauxhall divisions</p></li><li><p>Migrated database platforms from Oracle to PostgreSQL to save GM money on contracts.</p></li><li><p>Supported, upgraded, modified legacy applications with new business features using Apache Struts, Spring Framework, Angular, Vue, vanilla JavaScript, SVN and Git to support future vehicle architecture and marketing objectives.</p></li><li><p>Lead SCRUM meetings and developed stories for agile based team translating requirements to User Stories.</p></li><li><p>Mentored 3 newer developers to bring them up to speed on process, code base and general approach questions.</p></li></ul>",
           "url": {
             "label": "",
             "href": ""
@@ -150,7 +150,7 @@
           "position": "Business Analyst",
           "location": "Warren, Michigan",
           "date": "Sep 2014 - Feb 2015",
-          "summary": "<ul><li><p>Meticulously documented GM recall/warranty action processes for greenfield application removing ambiguity of requirements for waterfall project definition</p></li></ul>",
+          "summary": "<ul><li><p>Meticulously documented GM recall/warranty action processes for greenfield application which removed ambiguity of requirements for waterfall project definition</p></li></ul>",
           "url": {
             "label": "",
             "href": ""
@@ -198,7 +198,7 @@
           "position": "Musician/Barista/Teacher",
           "location": "Madison Heights, MI",
           "date": "February 2018 - August 2021",
-          "summary": "<ul><li><p>Playing various instruments on stage. </p></li><li><p>Made drinks for church goers before and after service</p></li><li><p>Taught curriculum with teaching partner, developing lessons based on material.</p></li></ul>",
+          "summary": "<ul><li><p>Played various instruments on stage. </p></li><li><p>Made drinks for church goers before and after service</p></li><li><p>Taught curriculum with teaching partner and developed lessons based on material.</p></li></ul>",
           "url": {
             "label": "",
             "href": "https://www.gospellifechurch.com/"
@@ -211,7 +211,7 @@
           "position": "Mentor",
           "location": "Centerline Highschool, Centerline, MI",
           "date": "January 2016 - April 2019",
-          "summary": "<ul><li><p>Reviewed code of robotics members</p></li><li><p>Teach the basics of C++ and code design/development</p></li><li><p>Ensure safety while students work with tools/electronics to build robot</p></li><li><p>Guide design ideas to ensure they can succeed</p></li></ul>",
+          "summary": "<ul><li><p>Reviewed code of robotics members</p></li><li><p>Taught the basics of C++ and code design/development</p></li><li><p>Ensured safety while students worked with tools/electronics to build robot</p></li><li><p>Guided design ideas to ensure they could succeed</p></li></ul>",
           "url": {
             "label": "",
             "href": "https://frc-events.firstinspires.org/team/4815"
@@ -224,7 +224,7 @@
           "position": "Member/Volunteer/Presenter",
           "location": "East Lansing, MI",
           "date": "September 2010 - May 2014",
-          "summary": "<ul><li><p>Presented on guitar wood and tone affect</p></li><li><p>Volunteered for setup/teardown of group hosted event</p></li><li><p>Assembled/studied circuitry of music equipment</p></li><li><p>Recruited for group during the fall</p></li></ul>",
+          "summary": "<ul><li><p>Presented on guitar wood and tone affect</p></li><li><p>Volunteered for setup/teardown of group hosted event</p></li><li><p>Assembled/studied circuitry of music equipment</p></li><li><p>Recruited for group during the fall semesters</p></li></ul>",
           "url": {
             "label": "",
             "href": "https://www.aeemsu.com/"
@@ -740,7 +740,7 @@
       ]
     ],
     "css": {
-      "value": "/* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n} */\n\n.sidebar {\n   /* From https://css.glass */\n    height: 95%;\n    color: black;\n    background: rgba(107, 151, 142, .6);\n    border-radius: 16px 0px 0px 16px;\n    margin-top: 24px;\n    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);\n    backdrop-filter: blur(12.3px);\n    -webkit-backdrop-filter: blur(12.3px);\n    border: 1px solid rgba(255, 255, 255, 0.58);\n}\n\n.size-2.rounded-full.border.border-primary {\n        border-color: rgba(0, 0, 0, 0.8);\n}\n\n.size-2.rounded-full.border.border-primary.bg-primary {\n        background-color: rgba(0, 0, 0, 0.7);\n}\n\nsection>h4:not(div.sidebar>section>h4) {\n    /* From https://css.glass */\n    padding: 2px 5px 1px 10px;\n    background: rgba(40, 148, 60, 0.41);\n    border-radius: 4px;\n    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);\n    backdrop-filter: blur(14.7px);\n    -webkit-backdrop-filter: blur(14.7px);\n    border: 1px solid rgba(40, 178, 255, 0.14);\n}\n\ndiv.main > * {\n    margin: -5px -10px;\n}",
+      "value": "/* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n} */\n\n.sidebar {\n   /* From https://css.glass */\n    height: 95%;\n    color: black;\n    background: rgba(107, 151, 142, .6);\n    border-radius: 16px 0px 0px 16px;\n    margin-top: 24px;\n    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.1);\n    backdrop-filter: blur(12.3px);\n    -webkit-backdrop-filter: blur(12.3px);\n    border: 1px solid rgba(255, 255, 255, 0.58);\n}\n\n.size-2.rounded-full.border.border-primary {\n        border-color: rgba(0, 0, 0, 0.8);\n}\n\n.size-2.rounded-full.border.border-primary.bg-primary {\n        background-color: rgba(0, 0, 0, 0.7);\n}\n\nsection>h4:not(div.sidebar>section>h4) {\n    /* From https://css.glass */\n    padding: 2px 5px 1px 10px;\n    background: rgba(40, 148, 60, 0.41);\n    border-radius: 4px;\n    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);\n    backdrop-filter: blur(14.7px);\n    -webkit-backdrop-filter: blur(14.7px);\n    border: 1px solid rgba(40, 178, 255, 0.14);\n}\n\n/*div.main > * {\n    margin: -5px -10px;\n} */",
       "visible": true
     },
     "page": {
@@ -763,7 +763,7 @@
         "variants": [
           "regular"
         ],
-        "size": 13
+        "size": 13.5
       },
       "lineHeight": 1.1,
       "hideIcons": true,
